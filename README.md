@@ -75,7 +75,7 @@ Each record contains:
 - Linked S3 frontend to Flask API endpoint (EC2 public DNS).
 - Tested full data flow (Frontend → Backend → Database).
 
-![](Flow.jpeg)
+![](Flow.jpg)
 
 ---
 
