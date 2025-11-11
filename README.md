@@ -2,7 +2,7 @@
 # 🧩 Three-Tier Web Application using Flask, MySQL, and AWS
 
 ## 🚀 Overview
-This project demonstrates the deployment of a **3-Tier Architecture Web Application** on **Amazon Web Services (AWS)** using **Flask (Python)** as the backend, **MySQL (RDS)** as the database, and **HTML/CSS (S3 or Flask templates)** as the frontend presentation layer.
+This project demonstrates the deployment of a **3-Tier Architecture Web Application** on **Amazon Web Services (AWS)** using **Flask (Python)** as the backend, **MySQL (RDS)** as the database, and **HTML/CSS (S3)** as the frontend presentation layer.
 
 The project simulates a **Student Management System** where users can **add, view, and delete student records** through a simple web interface.
 
@@ -23,7 +23,7 @@ The project follows the standard **Three-Tier Architecture** pattern:
 
 | Category | Technology |
 |-----------|-------------|
-| **Frontend** | HTML, CSS, Bootstrap |
+| **Frontend** | HTML, CSS |
 | **Backend** | Python (Flask) |
 | **Database** | MySQL (on AWS RDS) |
 | **Cloud** | AWS EC2, S3, RDS |
