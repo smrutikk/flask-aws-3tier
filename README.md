@@ -79,7 +79,7 @@ Each record contains:
 - Tested full data flow (Frontend → Backend → Database).
 
 <p align="center">
-  <img src="Flow.jpg" alt="3-Tier Flow Diagram" width="600">
+  <img src="Flow.jpg" alt="3-Tier Flow Diagram" width="450">
 </p>
 
 
