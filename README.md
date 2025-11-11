@@ -88,7 +88,7 @@ Each record contains:
 ### 📄 Project Report Preview
 Click below to open the full project documentation containing screenshots of implementation:
 
-![Open Project Report](Student Management-AWS.pdf)
+📘 [Open Project Report (PDF)](Student%20Management-AWS.pdf)
 
 
 ---
