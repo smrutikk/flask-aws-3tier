@@ -17,7 +17,7 @@ The project follows the standard **Three-Tier Architecture** pattern:
 | **Application Layer** | Amazon EC2 (Flask App) | Handles business logic and routes user requests |
 | **Database Layer** | Amazon RDS (MySQL) | Stores persistent student data |
 
-![Architecture Diagram](architecture.jpeg)
+![Architecture Diagram](architecture.jpg)
 
 ---
 
