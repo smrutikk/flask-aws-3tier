@@ -17,7 +17,10 @@ The project follows the standard **Three-Tier Architecture** pattern:
 | **Application Layer** | Amazon EC2 (Flask App) | Handles business logic and routes user requests |
 | **Database Layer** | Amazon RDS (MySQL) | Stores persistent student data |
 
-![Architecture Diagram](architecture.jpg)
+<p align="center">
+  <img src="architecture.jpg" alt="AWS Architecture Diagram" width="600">
+</p>
+
 
 ---
 
@@ -75,7 +78,10 @@ Each record contains:
 - Linked S3 frontend to Flask API endpoint (EC2 public DNS).
 - Tested full data flow (Frontend → Backend → Database).
 
-![](Flow.jpg)
+<p align="center">
+  <img src="Flow.jpg" alt="3-Tier Flow Diagram" width="600">
+</p>
+
 
 ---
 
