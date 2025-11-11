@@ -85,14 +85,11 @@ Each record contains:
 
 ---
 
-## 📸 Screenshots
-Add screenshots in your GitHub repo like this:
+### 📄 Project Report Preview
+Click below to open the full project documentation containing screenshots of implementation:
 
+[Open Project Report](Student Management-AWS.pdf)
 
-![RDS Setup](screenshots/rds.png)
-![Flask App](screenshots/flask.png)
-![S3 Bucket](screenshots/s3.png)
-![Final Output](screenshots/app_output.png)
 
 ---
 
